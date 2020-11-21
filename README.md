@@ -3,7 +3,11 @@ Hey there! My name is Tejas M R and I'm currently in my junior year at MSRIT, Ba
 ## My Projects
 
 ### iMessageClone
-Q iMessageClone intro
+This is a simple messaging app which was built with both front-end and back-end concepts.
+
+It is under construction, currently :)
+
+You can find it on: https://github.com/tezz-io/iMessageClone
 
 ### NoteTekr
 This is a simple note taking app which was built with both front-end and back-end concepts.
