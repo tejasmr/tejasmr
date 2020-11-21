@@ -6,7 +6,11 @@ Hey there! My name is Tejas M R and I'm currently in my junior year at MSRIT, Ba
 Q iMessageClone intro
 
 ### NoteTekr
-Q NoteTekr intro
+This is a simple note taking app which was built with both front-end and back-end concepts.
+
+It has persistent data storage!
+
+You can find it on: https://github.com/tezz-io/NoteTekr
 
 <!--
 **tezz-io/tezz-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
