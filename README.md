@@ -16,6 +16,14 @@ It has persistent data storage!
 
 You can find it on: https://github.com/tezz-io/NoteTekr
 
+
+### 📅 TymTebal
+This is a simple time table management app which was built with both front-end and back-end concepts.
+
+It has persistent data storage!
+
+You can find it on: https://github.com/tezz-io/TymTebal
+
 <!--
 **tezz-io/tezz-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
