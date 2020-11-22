@@ -2,14 +2,14 @@
 Hey there! My name is Tejas M R and I'm currently in my junior year at MSRIT, Bangalore. I'm interested in iOS App Development, Problem Solving, Machine Learning and Image Processing. I'm presenting these projects below!
 ## My Projects
 
-### 💬 iMessageClone
+### 💬 [iMessageClone](https://github.com/tezz-io/iMessageClone)
 This is a simple messaging app which was built with both front-end and back-end concepts.
 
 It is under construction, currently :)
 
 You can find it on: https://github.com/tezz-io/iMessageClone
 
-### 📝 NoteTekr
+### 📝 [NoteTekr](https://github.com/tezz-io/NoteTekr)
 This is a simple note taking app which was built with both front-end and back-end concepts.
 
 It has persistent data storage!
@@ -17,7 +17,7 @@ It has persistent data storage!
 You can find it on: https://github.com/tezz-io/NoteTekr
 
 
-### 📅 TymTebal
+### 📅 [TymTebal](https://github.com/tezz-io/TymTebal)
 This is a simple time table management app which was built with both front-end and back-end concepts.
 
 It has persistent data storage!
