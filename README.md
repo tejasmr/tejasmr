@@ -1,10 +1,8 @@
 ## Introduction
 
----
 Hey there! My name is Tejas M R and I'm currently in my junior year at MSRIT, Bangalore. I'm interested in iOS App Development, Problem Solving, Machine Learning and Image Processing. I'm presenting these projects below!
 ## My Projects
 
----
 ### 💬 [iMessageClone](https://github.com/tezz-io/iMessageClone)
 This is a simple messaging app which was built with both front-end and back-end concepts.
 
