@@ -34,7 +34,7 @@ You can find it on: https://github.com/tezz-io/Dicee-iOS13
 
 ---
 
-### 🖩 [Simply Calcy](https://github.com/tezz-io/Simply-Calcy-UIKit)
+### 🧮 [Simply Calcy](https://github.com/tezz-io/Simply-Calcy-UIKit)
 This is a simple calculator app which was built with UIKit and everything was programatically added.
 
 You can find it on: https://github.com/tezz-io/Simply-Calcy-UIKit
