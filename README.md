@@ -10,6 +10,24 @@ It is under construction, currently :)
 
 You can find it on: https://github.com/tezz-io/iMessageClone
 
+### 🎲 [Dicee-iOS13](https://github.com/tezz-io/Dicee-iOS13)
+This is a simple two dice rolling app which was built with UIKit and has Auto Layout programatically added.
+
+You can find it on: https://github.com/tezz-io/Dicee-iOS13
+
+---
+
+### 🧮 [Simply Calcy](https://github.com/tezz-io/Simply-Calcy-UIKit)
+This is a simple calculator app which was built with UIKit and everything was programatically added.
+
+You can find it on: https://github.com/tezz-io/Simply-Calcy-UIKit
+
+---
+### ♫ [Xylophone](https://github.com/tezz-io/Xylophone-iOS13)
+This is a xylophone app which was built with UIKit and everything was programatically added.
+
+You can find it on: https://github.com/tezz-io/Xylophone-iOS13
+
 ---
 ### 📝 [NoteTekr](https://github.com/tezz-io/NoteTekr)
 This is a simple note taking app which was built with both front-end and back-end concepts.
@@ -27,22 +45,10 @@ It has persistent data storage!
 You can find it on: https://github.com/tezz-io/TymTebal
 
 ---
-### 🎲 [Dicee-iOS13](https://github.com/tezz-io/Dicee-iOS13)
-This is a simple two dice rolling app which was built with UIKit and has Auto Layout programatically added.
 
-You can find it on: https://github.com/tezz-io/Dicee-iOS13
 
----
 
-### 🧮 [Simply Calcy](https://github.com/tezz-io/Simply-Calcy-UIKit)
-This is a simple calculator app which was built with UIKit and everything was programatically added.
 
-You can find it on: https://github.com/tezz-io/Simply-Calcy-UIKit
-
-### ♫ [Xylophone](https://github.com/tezz-io/Xylophone-iOS13)
-This is a xylophone app which was built with UIKit and everything was programatically added.
-
-You can find it on: https://github.com/tezz-io/Xylophone-iOS13
 <!--
 **tezz-io/tezz-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
