@@ -48,7 +48,14 @@ You can find it on: https://github.com/tezz-io/iMessageClone
 
 ---
 
+### 💬 [TezzNotes](https://github.com/tezz-io/TezzNotes) [UnderConctruction]
+This is a advanced note taking app which was built with front-end, back-end and cloud concepts.
 
+It has persistent data storage!
+
+You can find it on: https://github.com/tezz-io/TezzNotes
+
+---
 <!--
 **tezz-io/tezz-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
