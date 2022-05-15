@@ -48,6 +48,15 @@ Interested in building software products to solve problems with the best technol
 [![CommandLineParser](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=CommandLineParser)](https://github.com/tezz-io/CommandLineParser)
 [![tezzgl](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=tezzgl)](https://github.com/tezz-io/tezzgl)
 
+### iOS/Swift Projects/Libraries
+
+[![AutoLayoutConstraints](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=AutoLayoutConstraints)](https://github.com/tezz-io/AutoLayoutConstraints)
+[![Simply-Calcy-UIKit](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=Simply-Calcy-UIKit)](https://github.com/tezz-io/Simply-Calcy-UIKit)
+[![CustomLinearProgressView](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=CustomLinearProgressView)](https://github.com/tezz-io/CustomLinearProgressView)
+[![TymTebal](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=TymTebal)](https://github.com/tezz-io/TymTebal)
+[![NoteTekr](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=NoteTekr)](https://github.com/tezz-io/NoteTekr)
+[![iMessageClone](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=iMessageClone)](https://github.com/tezz-io/iMessageClone)
+
 ### Github Actions
 
 [![genREADME](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=genREADME)](https://github.com/tezz-io/genREADME)
