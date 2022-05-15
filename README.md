@@ -56,3 +56,6 @@ Interested in building software products to solve problems with the best technol
 [![TymTebal](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=TymTebal)](https://github.com/tezz-io/TymTebal)
 [![NoteTekr](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=NoteTekr)](https://github.com/tezz-io/NoteTekr)
 [![iMessageClone](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=iMessageClone)](https://github.com/tezz-io/iMessageClone)
+
+Open Source Contributions:
+> Added CV_PROP_RW macro to keypoints: https://github.com/opencv/opencv/pull/21180
