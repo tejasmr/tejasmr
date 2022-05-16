@@ -31,6 +31,10 @@ Interested in building software products to solve problems with the best technol
 [![genREADME](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=genREADME)](https://github.com/tezz-io/genREADME)
 [![mongoexport](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=mongoexport)](https://github.com/tezz-io/mongoexport)
 
+### selenium-chromedriver: Uploaded to PyPi
+
+[![selenium-chromedriver](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=selenium-chromedriver)](selenium-webdriver)
+
 ### Android Libraries
 
 [![PercentageChartView](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=PercentageChartView)](https://github.com/tezz-io/PercentageChartView)
