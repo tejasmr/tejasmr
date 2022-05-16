@@ -33,7 +33,7 @@ Interested in building software products to solve problems with the best technol
 
 ### selenium-chromedriver: Uploaded to PyPi
 
-[![selenium-chromedriver](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=selenium-chromedriver)](selenium-webdriver)
+[![selenium-chromedriver](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=selenium-chromedriver)](https://github.com/tezz-io/selenium-chromedriver)
 
 ### Android Libraries
 
