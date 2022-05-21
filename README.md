@@ -63,12 +63,12 @@ Interested in building software products to solve problems with the best technol
 
 Open Source Contributions:
 
-![merged](merged.svg) [**Added CV_PROP_RW macro to keypoints** #21180](https://github.com/opencv/opencv/pull/21180)
+![merged](svgexport-75-cropped.svg) [**Added CV_PROP_RW macro to keypoints** #21180](https://github.com/opencv/opencv/pull/21180)
 
-![merged](merged.svg) [**fix(iam): AccountPrincipal accepts values which aren't account IDs** #20292](https://github.com/aws/aws-cdk/pull/20292)
+![merged](svgexport-75-cropped.svg) [**fix(iam): AccountPrincipal accepts values which aren't account IDs** #20292](https://github.com/aws/aws-cdk/pull/20292)
 
-![open](open.svg) [**fix(pipelines): Missing prop check for reuseCrossRegionSupportStacks in CodePipeline** #20423](https://github.com/aws/aws-cdk/pull/20423)
+![open](svgexport-25-cropped.svg) [**fix(pipelines): Missing prop check for reuseCrossRegionSupportStacks in CodePipeline** #20423](https://github.com/aws/aws-cdk/pull/20423)
 
-![open](open.svg) [**fix(route53): determineFullyQualifiedDomainName output ends with two periods when hostedzone.zonename is token** #20435](https://github.com/aws/aws-cdk/pull/20435)
+![open](svgexport-25-cropped.svg) [**fix(route53): determineFullyQualifiedDomainName output ends with two periods when hostedzone.zonename is token** #20435](https://github.com/aws/aws-cdk/pull/20435)
 
-![open](open.svg) [**fix(core): Tags applied to App not inherited by Stage** #20440](https://github.com/aws/aws-cdk/pull/20440)
+![open](svgexport-25-cropped.svg) [**fix(core): Tags applied to App not inherited by Stage** #20440](https://github.com/aws/aws-cdk/pull/20440)
