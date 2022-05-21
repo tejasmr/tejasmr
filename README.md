@@ -61,7 +61,7 @@ Interested in building software products to solve problems with the best technol
 [![NoteTekr](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=NoteTekr)](https://github.com/tezz-io/NoteTekr)
 [![iMessageClone](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=iMessageClone)](https://github.com/tezz-io/iMessageClone)
 
-Open Source Contributions:
+## Open Source Contributions:
 
 ![merged](svgexport-75-cropped.svg) [**Added CV_PROP_RW macro to keypoints** #21180](https://github.com/opencv/opencv/pull/21180)
 
