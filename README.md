@@ -12,7 +12,6 @@ Interested in building software products to solve problems with the best technol
 ![merged](svgexport-75-cropped.svg) [**fix(iam): AccountPrincipal accepts values which aren't account IDs** #20292](https://github.com/aws/aws-cdk/pull/20292)\
 ![open](svgexport-25-cropped.svg) [**fix(pipelines): Missing prop check for reuseCrossRegionSupportStacks in CodePipeline** #20423](https://github.com/aws/aws-cdk/pull/20423)\
 ![open](svgexport-25-cropped.svg) [**fix(route53): determineFullyQualifiedDomainName output ends with two periods when hostedzone.zonename is token** #20435](https://github.com/aws/aws-cdk/pull/20435)\
-![open](svgexport-25-cropped.svg) [**fix(core): Tags applied to App not inherited by Stage** #20440](https://github.com/aws/aws-cdk/pull/20440)
 
 ## My projects
 
