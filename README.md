@@ -14,6 +14,12 @@ Interested in building software products to solve problems with the best technol
 
 ## My projects
 
+### Published Packages
+
+[![table-creator](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=table-creator)](https://github.com/tezz-io/table-creator)
+[![selenium-chromedriver(pypi)](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=selenium-chromedriver)](https://github.com/tezz-io/selenium-chromedriver)
+[![tezz-pylsd](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=tezz-pylsd)](https://github.com/tezz-io/tezz-pylsd)
+
 ### OurVision: funded by IEEE
 
 [![OurVision](https://github-readme-stats.vercel.app/api/pin/?username=tejas1904&repo=OurVision)](https://github.com/tejas1904/OurVision)
@@ -36,10 +42,6 @@ Interested in building software products to solve problems with the best technol
 
 [![genREADME](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=genREADME)](https://github.com/tezz-io/genREADME)
 [![mongoexport](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=mongoexport)](https://github.com/tezz-io/mongoexport)
-
-### selenium-chromedriver: Uploaded to PyPi
-
-[![selenium-chromedriver](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=selenium-chromedriver)](https://github.com/tezz-io/selenium-chromedriver)
 
 ### Android Libraries
 
