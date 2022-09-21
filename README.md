@@ -16,9 +16,10 @@ Interested in building software products to solve problems with the best technol
 
 ### Published Packages
 
-[![table-creator](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=table-creator)](https://github.com/tezz-io/table-creator)
+[![table-creator(npm)](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=table-creator)](https://github.com/tezz-io/table-creator)
 [![selenium-chromedriver(pypi)](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=selenium-chromedriver)](https://github.com/tezz-io/selenium-chromedriver)
-[![tezz-pylsd](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=tezz-pylsd)](https://github.com/tezz-io/tezz-pylsd)
+[![tezz-pylsd(pypi)](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=tezz-pylsd)](https://github.com/tezz-io/tezz-pylsd)
+[![PythonPrint(nuget)](https://github-readme-stats.vercel.app/api/pin/?username=tezz-io&repo=PythonPrint)](https://github.com/tezz-io/PythonPrint)
 
 ### OurVision: funded by IEEE
 
