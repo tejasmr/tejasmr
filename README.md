@@ -78,7 +78,7 @@ Interested in building software products to solve problems with the best technol
 
 ![GitHub metrics](https://metrics.lecoq.io/lab-programs)  
 
-![GitHub metrics](https://metrics.lecoq.io/ourvision-tezz)
+![GitHub metrics](https://metrics.lecoq.io/OurVision-IEEE)
 
 ![GitHub metrics](https://metrics.lecoq.io/slt-artpark)  
 
