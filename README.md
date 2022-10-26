@@ -73,3 +73,12 @@ Interested in building software products to solve problems with the best technol
 [![TymTebal](https://github-readme-stats.vercel.app/api/pin/?username=tejasmr&repo=TymTebal)](https://github.com/tejasmr/TymTebal)
 [![NoteTekr](https://github-readme-stats.vercel.app/api/pin/?username=tejasmr&repo=NoteTekr)](https://github.com/tejasmr/NoteTekr)
 [![iMessageClone](https://github-readme-stats.vercel.app/api/pin/?username=tejasmr&repo=iMessageClone)](https://github.com/tejasmr/iMessageClone)
+
+## Details about organizations
+
+![GitHub metrics](https://metrics.lecoq.io/lab-programs)  
+
+![GitHub metrics](https://metrics.lecoq.io/ourvision-tezz)
+
+![GitHub metrics](https://metrics.lecoq.io/slt-artpark)  
+
