@@ -1,10 +1,6 @@
-### Hi there 👋, My name is Tejas M R
-#### I am working as a Software Engineer at Shell
+# Hi there 👋, My name is Tejas M R
+### I am working as a Software Engineer at Shell
 Interested in building software products to solve problems with the best technologies available.
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tejasmr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tejas-m-r/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MrTejasMR)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tejasmr.me)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasmr)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tejasmr&show_icons=true&count_private=true)  
 
