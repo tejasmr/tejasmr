@@ -1,4 +1,4 @@
-## Statistics by Tejas M R
+## Statistics of Tejas M R's repository
 
 ![Profile views](https://gpvc.arturio.dev/tejasmr)  
 
