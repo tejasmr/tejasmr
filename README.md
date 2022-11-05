@@ -6,18 +6,17 @@
 
 ## [Open Source Contributions](OpenSource.md)
 
-
-![opencv](https://img.shields.io/badge/opencv-1-brightgreen?style=flat-square)
-![aws-cdk](https://img.shields.io/badge/aws--cdk-2-brightgreen?style=flat-square)
+[![opencv](https://img.shields.io/badge/opencv-1-brightgreen?style=flat-square)](OpenSource.md#open-computer-vision-open-cv)
+[![aws-cdk](https://img.shields.io/badge/aws--cdk-2-brightgreen?style=flat-square)](OpenSource.md#aws-cloud-development-kit-aws-cdk)
 
 ## [Published Packages](PublishedPackages.md)
 
-![table-creator](https://img.shields.io/badge/table--creator-npm-red?style=flat-square)
-![selenium-chromedriver](https://img.shields.io/badge/selenium--chromedriver-pypi-blue?style=flat-square)
-![tezz-pylsd](https://img.shields.io/badge/tezz--pylsd-pypi-blue?style=flat-square)
-![PythonPrint](https://img.shields.io/badge/PythonPrint-nuget-brightgreen?style=flat-square)
-![mongo-export](https://img.shields.io/badge/mongo--export-Github%20Action-yellow?style=flat-square)
-![genREADME](https://img.shields.io/badge/genREADME-Github%20Action-yellow?style=flat-square)
+[![table-creator](https://img.shields.io/badge/table--creator-npm-red?style=flat-square)](https://github.com/tejasmr/table-creator)
+[![selenium-chromedriver](https://img.shields.io/badge/selenium--chromedriver-pypi-blue?style=flat-square)](https://github.com/tejasmr/selenium-chromedriver)
+[![tezz-pylsd](https://img.shields.io/badge/tezz--pylsd-pypi-blue?style=flat-square)](https://github.com/tejasmr/tezz-pylsd)
+[![PythonPrint](https://img.shields.io/badge/PythonPrint-nuget-brightgreen?style=flat-square)](https://github.com/tejasmr/PythonPrint)
+[![mongoexport](https://img.shields.io/badge/mongoexport-Github%20Action-yellow?style=flat-square)](https://github.com/tejasmr/mongoexport)
+[![genREADME](https://img.shields.io/badge/genREADME-Github%20Action-yellow?style=flat-square)](https://github.com/tejasmr/genREADME)
 
 <!---
 # Hi there 👋, My name is Tejas M R
