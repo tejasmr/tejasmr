@@ -21,6 +21,8 @@
 [![PythonPrint](https://img.shields.io/badge/PythonPrint-nuget-brightgreen?style=flat-square)](https://github.com/tejasmr/PythonPrint)
 [![mongoexport](https://img.shields.io/badge/mongoexport-Github%20Action-yellow?style=flat-square)](https://github.com/tejasmr/mongoexport)
 [![genREADME](https://img.shields.io/badge/genREADME-Github%20Action-yellow?style=flat-square)](https://github.com/tejasmr/genREADME)
+[![maven-with-junit-template](https://img.shields.io/badge/maven--with--junit--template-Github%20Action-yellow?style=flat-square)](https://github.com/tejasmr/maven-with-junit-template)
+[![maven-with-junit-javadoc-template](https://img.shields.io/badge/maven--with--junit--javadoc--template-Github%20Action-yellow?style=flat-square)](https://github.com/tejasmr/maven-with-junit-javadoc-template)
 
 <!---
 # Hi there 👋, My name is Tejas M R
