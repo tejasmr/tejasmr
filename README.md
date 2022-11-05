@@ -1,21 +1,23 @@
-## Hi there 👋, I am Tejas M R
+# Hi there 👋, I am Tejas M R
 
-### I am working as a Software Engineer at Shell
+#### I am working as a Software Engineer at Shell
 
-## Open Source Contributions:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tejasmr&show_icons=true&count_private=true) 
 
-![merged](svgexport-75-cropped.svg) [**Added CV_PROP_RW macro to keypoints** #21180](https://github.com/opencv/opencv/pull/21180)\
-![merged](svgexport-75-cropped.svg) [**fix(iam): AccountPrincipal accepts values which aren't account IDs** #20292](https://github.com/aws/aws-cdk/pull/20292)\
-![merged](svgexport-75-cropped.svg) [**fix(pipelines): reuseCrossRegionSupportStacks=true does not fail when existing pipeline is used** #20423](https://github.com/aws/aws-cdk/pull/20423)\
+## [Open Source Contributions](OpenSource.md)
 
-### Published Packages
 
-![table-creator](https://img.shields.io/badge/table--creator-npm-red)
-![selenium-chromedriver](https://img.shields.io/badge/selenium--chromedriver-pypi-blue)
-![tezz-pylsd](https://img.shields.io/badge/tezz--pylsd-pypi-blue)
-![PythonPrint](https://img.shields.io/badge/PythonPrint-nuget-brightgreen)
-![mongo-export](https://img.shields.io/badge/mongo--export-Github%20Action-yellow)
-![genREADME](https://img.shields.io/badge/genREADME-Github%20Action-yellow)
+![opencv](https://img.shields.io/badge/opencv-1-brightgreen?style=flat-square)
+![aws-cdk](https://img.shields.io/badge/aws--cdk-2-brightgreen?style=flat-square)
+
+## [Published Packages](PublishedPackages.md)
+
+![table-creator](https://img.shields.io/badge/table--creator-npm-red?style=flat-square)
+![selenium-chromedriver](https://img.shields.io/badge/selenium--chromedriver-pypi-blue?style=flat-square)
+![tezz-pylsd](https://img.shields.io/badge/tezz--pylsd-pypi-blue?style=flat-square)
+![PythonPrint](https://img.shields.io/badge/PythonPrint-nuget-brightgreen?style=flat-square)
+![mongo-export](https://img.shields.io/badge/mongo--export-Github%20Action-yellow?style=flat-square)
+![genREADME](https://img.shields.io/badge/genREADME-Github%20Action-yellow?style=flat-square)
 
 <!---
 # Hi there 👋, My name is Tejas M R
