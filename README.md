@@ -13,7 +13,9 @@
 ![table-creator](https://img.shields.io/badge/table--creator-npm-red)
 ![selenium-chromedriver](https://img.shields.io/badge/selenium--chromedriver-pypi-blue)
 ![tezz-pylsd](https://img.shields.io/badge/tezz--pylsd-pypi-blue)
-![PythonPrint](https://img.shields.io/badge/PythonPrint-nuget-green)
+![PythonPrint](https://img.shields.io/badge/PythonPrint-nuget-brightgreen)
+![mongo-export](https://img.shields.io/badge/mongo--export-Github%20Action-yellow)
+![genREADME](https://img.shields.io/badge/genREADME-Github%20Action-yellow)
 
 <!---
 # Hi there 👋, My name is Tejas M R
