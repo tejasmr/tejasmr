@@ -2,13 +2,18 @@
 
 ### I am working as a Software Engineer at Shell
 
-Interested in building software products to solve problems with the best technologies available.
-
 ## Open Source Contributions:
 
 ![merged](svgexport-75-cropped.svg) [**Added CV_PROP_RW macro to keypoints** #21180](https://github.com/opencv/opencv/pull/21180)\
 ![merged](svgexport-75-cropped.svg) [**fix(iam): AccountPrincipal accepts values which aren't account IDs** #20292](https://github.com/aws/aws-cdk/pull/20292)\
 ![merged](svgexport-75-cropped.svg) [**fix(pipelines): reuseCrossRegionSupportStacks=true does not fail when existing pipeline is used** #20423](https://github.com/aws/aws-cdk/pull/20423)\
+
+### Published Packages
+
+![table-creator](https://img.shields.io/badge/table--creator-npm-red)
+![selenium-chromedriver](https://img.shields.io/badge/selenium--chromedriver-pypi-blue)
+![tezz-pylsd](https://img.shields.io/badge/tezz--pylsd-pypi-blue)
+![PythonPrint](https://img.shields.io/badge/PythonPrint-nuget-green)
 
 <!---
 # Hi there 👋, My name is Tejas M R
