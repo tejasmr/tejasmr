@@ -2,6 +2,10 @@
 
 #### I am working as a Software Engineer at Shell
 
+## [Statistics](Statistics.md)
+
+![Profile views](https://gpvc.arturio.dev/tejasmr)  
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tejasmr&show_icons=true&count_private=true) 
 
 ## [Open Source Contributions](OpenSource.md)
