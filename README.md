@@ -23,6 +23,7 @@
 [![genREADME](https://img.shields.io/badge/genREADME-Github%20Action-yellow?style=flat-square)](https://github.com/tejasmr/genREADME)
 [![maven-with-junit-template](https://img.shields.io/badge/maven--with--junit--template-Github%20Action-yellow?style=flat-square)](https://github.com/tejasmr/maven-with-junit-template)
 [![maven-with-junit-javadoc-template](https://img.shields.io/badge/maven--with--junit--javadoc--template-Github%20Action-yellow?style=flat-square)](https://github.com/tejasmr/maven-with-junit-javadoc-template)
+[![autopr](https://img.shields.io/badge/autopr-VSCode%20Extension-blue?style=flat-square)](https://github.com/tejasmr/autopr)
 
 <!---
 # Hi there 👋, My name is Tejas M R
